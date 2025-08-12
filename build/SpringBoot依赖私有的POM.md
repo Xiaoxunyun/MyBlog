@@ -37,7 +37,7 @@ mvn help:effective-settings
 ```
 
 
-​ 经确认，实际构建时未正确使用正确的settings 文件。
+ 经确认，实际构建时未正确使用正确的settings 文件。
 
 ### ✅ 解决方案
 
